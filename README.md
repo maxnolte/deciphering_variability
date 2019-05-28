@@ -48,7 +48,7 @@ Revision analyses:
 
 To generate figures, update simulation output paths to new data location, and then run figure generation scripts in Python 2.7, e.g.:
 ```
-python intitial_analysis_final.py
+python initial_analysis_final.py
 ```
 
 ## License
